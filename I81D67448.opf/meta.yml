@@ -1,0 +1,16 @@
+id: I81D67448
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 15:13:06.738590
+last_modified: 2023-02-09 15:13:06.738758
+source_metadata:
+  title: 'MSV 2,0: Prātimokṣasūtra'
+  language: bo
+bases:
+  B4F3:
+    base_file: B4F3.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
